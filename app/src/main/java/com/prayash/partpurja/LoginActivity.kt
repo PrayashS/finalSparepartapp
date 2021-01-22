@@ -16,7 +16,7 @@ class LoginActivity : AppCompatActivity() {
         btnlogin = findViewById(R.id.btnLogIn)
 
         btnlogin.setOnClickListener {
-            startActivity(Intent(this, RegisterActivity::class.java))
+            startActivity(Intent(this, DashboardActivity::class.java))
 
         }
 

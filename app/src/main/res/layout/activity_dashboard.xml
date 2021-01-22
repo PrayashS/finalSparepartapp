@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".DashboardActivity">
+    tools:context=".DashboardActivity"
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -21,6 +22,7 @@
             android:text="Home"
             android:layout_margin="20dp"
             android:textSize="15sp"
+            android:backgroundTint="#BF0848"
             />
 
         <Button
@@ -29,6 +31,7 @@
             android:text="Collections"
             android:layout_margin="20dp"
             android:textSize="15sp"
+            android:backgroundTint="#BF0848"
             />
 
 
@@ -47,6 +50,7 @@
             android:text="Flash Sale"
             android:layout_margin="20dp"
             android:textSize="15sp"
+            android:backgroundTint="#BF0848"
             />
 
         <Button
@@ -55,6 +59,7 @@
             android:text="Wishlist"
             android:layout_margin="20dp"
             android:textSize="15sp"
+            android:backgroundTint="#BF0848"
             />
 
 
@@ -73,6 +78,7 @@
             android:text="Orders"
             android:layout_margin="20dp"
             android:textSize="15sp"
+            android:backgroundTint="#BF0848"
             />
 
         <Button
@@ -81,6 +87,7 @@
             android:text="Account"
             android:layout_margin="20dp"
             android:textSize="15sp"
+            android:backgroundTint="#BF0848"
             />
 
 
@@ -98,6 +105,7 @@
             android:text="Help"
             android:layout_margin="20dp"
             android:textSize="15sp"
+            android:backgroundTint="#BF0848"
             />
 
 
