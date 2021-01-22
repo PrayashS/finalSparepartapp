@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DashboardActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:text="Home"
+            android:layout_margin="20dp"
+            android:textSize="15sp"
+            />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:text="Collections"
+            android:layout_margin="20dp"
+            android:textSize="15sp"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:text="Flash Sale"
+            android:layout_margin="20dp"
+            android:textSize="15sp"
+            />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:text="Wishlist"
+            android:layout_margin="20dp"
+            android:textSize="15sp"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:text="Orders"
+            android:layout_margin="20dp"
+            android:textSize="15sp"
+            />
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:text="Account"
+            android:layout_margin="20dp"
+            android:textSize="15sp"
+            />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:text="Help"
+            android:layout_margin="20dp"
+            android:textSize="15sp"
+            />
+
+
+    </LinearLayout>
+</LinearLayout>
